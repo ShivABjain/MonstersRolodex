@@ -1,0 +1,17 @@
+.search-box {
+    width: 250px;
+    height: 70px;
+    font-size: 24px;
+    background-color: rgba(255,255,255,0.7);
+    color: #333;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    padding: 10px 20px;
+}
+
+.search-box::placeholder{
+    color: #333;
+    font-size: 20px;
+}
